@@ -1,3 +1,3 @@
-# This is repo to link with my blog website 
+# This is repo to storage and create env comment in blog
 
-My Website: https://baiyuechu.vercel.app
+My Website: https://www.baiyuechu.dev/blog
